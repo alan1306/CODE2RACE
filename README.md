@@ -14,8 +14,11 @@ Guidelines
 
 Make a PR for the solution to the question, specify the issue number in the comment.
 <br><br>
-thanks 
+
+
+##thanks 
 
 ## IF YOU LIKE US, GIVE THIS REPOSITORY A ⭐.
 
-## NOTE - Only valid PR's related to issues will be merged.
+## NOTE - Only valid PR's related to issues will be merged. 
+
